@@ -8,4 +8,4 @@ With its intuitive interface, Sportify promotes an active, social lifestyle thro
 
 ## 📱 Demo
 
-Check out the demo here: [Watch Demo](https://youtu.be/pdVk1JZsX2I)
+Check out the demo here: [Watch Demo](https://drive.google.com/file/d/1YBVuhG1axHm5U615q4nK1jAZxKrNoEeD/view)
